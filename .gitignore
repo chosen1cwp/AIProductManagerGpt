@@ -1,0 +1,12 @@
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# JetBrains IDE local files
+.idea/*
+!.idea/.gitignore
